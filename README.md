@@ -11,7 +11,7 @@
 
 [![twitter](./img/twitter-dark.svg)](https://twitter.com/bibekbhsl)
 &nbsp;&nbsp;
-[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bibek-bhusal-8a125625b/)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/bibek-bhusal-8a125625b/)
 &nbsp;&nbsp;
 [![instagram](./img/instagram-light.svg)](https://www.instagram.com/bibek_bhusal_/)
 
