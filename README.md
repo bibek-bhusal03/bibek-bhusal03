@@ -30,7 +30,7 @@
 [<img align="left" alt="Firebase" width="26px" src="https://www.svgrepo.com/show/353735/firebase.svg" />]
 [<img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/458935/terminal.svg" />]
 [<img align="left" alt="Redux" width="26px" src="https://www.svgrepo.com/show/452093/redux.svg" />]
-[<img align="left" alt="Tailwindcss" width="26px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg"
+[<img align="left" alt="Tailwindcss" width="26px" src="https://www.svgrepo.com/show/374118/tailwind.svg"
 />]
 
 [twitter]: https://twitter.com/bibekbhsl
