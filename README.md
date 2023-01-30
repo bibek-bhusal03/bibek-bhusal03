@@ -29,11 +29,9 @@
 [<img align="left" alt="GitHub" width="26px" src="https://www.svgrepo.com/show/475654/github-color.svg" />]
 [<img align="left" alt="Firebase" width="26px" src="https://www.svgrepo.com/show/353735/firebase.svg" />]
 [<img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/458935/terminal.svg" />]
-[<img align="left" alt="Redux" width="26px" src="https://www.svgrepo.com/show/394395/redux.svg" />]
-[<img align="left" alt="Tailwindcss" width="26px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" />]
-
-<br />
-<br />
+[<img align="left" alt="Redux" width="26px" src="https://www.svgrepo.com/show/452093/redux.svg" />]
+[<img align="left" alt="Tailwindcss" width="26px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg"
+/>]
 
 [twitter]: https://twitter.com/bibekbhsl
 [instagram]: https://www.instagram.com/bibek_bhusal_/
