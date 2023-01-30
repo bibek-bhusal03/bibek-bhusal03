@@ -13,7 +13,7 @@
 &nbsp;&nbsp;
 [![linkedin](https://img.icons8.com/color/2x/linkedin.png)](https://www.linkedin.com/in/bibek-bhusal-8a125625b/)
 &nbsp;&nbsp;
-[![instagram](https://img.icons8.com/color/512/instagram-new--v1.png)](https://www.instagram.com/bibek_bhusal_/)
+[![instagram][<img align="left" alt="" width="26px" src="https://img.icons8.com/color/512/instagram-new--v1.png" />](https://www.instagram.com/bibek_bhusal_/)
 
 ### Languages and Tools:
 
