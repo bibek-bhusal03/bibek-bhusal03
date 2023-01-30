@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[![twitter](https://img.icons8.com/color/2x/twitter.png)](https://twitter.com/bibekbhsl)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/bibekbhsl)
 &nbsp;&nbsp;
-[![linkedin](https://img.icons8.com/color/2x/linkedin.png)](https://www.linkedin.com/in/bibek-bhusal-8a125625b/)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bibek-bhusal-8a125625b/)
 &nbsp;&nbsp;
-[![instagram](https://img.icons8.com/color/512/instagram-new--v1.png)](https://www.instagram.com/bibek_bhusal_/)
+[![instagram](./img/instagram-light.svg)](https://www.instagram.com/bibek_bhusal_/)
 
 ### Languages and Tools:
 
