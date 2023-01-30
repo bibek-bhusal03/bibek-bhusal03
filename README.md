@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning back-end development
 - 👯 I’m looking to work with more clients
-- 🥅 2023 Goals: Learn more about back-end
+- 🥅 2023 Goal: Learn more about back-end
 - ⚡ Fun fact: I love to read and workout
 
 ### Connect with me:
@@ -30,13 +30,10 @@
 [<img align="left" alt="Firebase" width="26px" src="https://www.svgrepo.com/show/353735/firebase.svg" />]
 [<img align="left" alt="Terminal" width="26px" src="https://www.svgrepo.com/show/458935/terminal.svg" />]
 [<img align="left" alt="Redux" width="26px" src="https://www.svgrepo.com/show/452093/redux.svg" />]
-[<img align="left" alt="Tailwindcss" width="26px" src="https://www.svgrepo.com/show/374118/tailwind.svg"
-/>]
+[<img align="left" alt="Tailwindcss" width="26px"
 
 <br />
 <br />
-
----
 
 [twitter]: https://twitter.com/bibekbhsl
 [instagram]: https://www.instagram.com/bibek_bhusal_/
