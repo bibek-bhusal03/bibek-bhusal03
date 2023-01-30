@@ -33,6 +33,11 @@
 [<img align="left" alt="Tailwindcss" width="26px" src="https://www.svgrepo.com/show/374118/tailwind.svg"
 />]
 
+<br />
+<br />
+
+---
+
 [twitter]: https://twitter.com/bibekbhsl
 [instagram]: https://www.instagram.com/bibek_bhusal_/
 [linkedin]: https://www.linkedin.com/in/bibek-bhusal-8a125625b/
