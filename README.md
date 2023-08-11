@@ -1,8 +1,8 @@
 # Hi there, I'm Bibek 👋
 
-## I'm a front-end developer, designer!!
+## I'm a MERN Stack developer/ Designer!!
 
-- 🌱 I’m currently learning back-end development
+- 🌱 I’m currently diving deep into back-end development
 - 👯 I’m looking to work with more clients
 - 🥅 2023 Goals: Learn more about front-end & back-end
 - ⚡ Fun fact: I love to read and workout
